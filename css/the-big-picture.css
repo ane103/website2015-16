@@ -1,0 +1,55 @@
+/*!
+ * Start Bootstrap - The Big Picture HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: rgba(0, 0, 0, 0.2);
+	border-bottom: 7px dotted #0990000;
+	box-shadow: inset 0 -3px 0 0 #990000, 0 3px 0 0 #990000;
+	border-top: 7px dotted #990000;
+	box-shadow: inset 0 3px 0 0 #990000, 0 -3px 0 0 #990000;
+	
+}
+
+.full {
+  background: url(http://www.ancient.eu/uploads/images/93.jpg?v=1431036072) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.meghedit {
+	font-family: "Goudy Old Style";
+	font-weight: bold;
+	color: white;
+	text-shadow: 4px 4px #990000;
+	
+}
+
+.megpedit {
+	color: white;
+	border: 3px solid white;
+	outline: 3px solid #990000;
+	background: rgba(0, 0, 0, 0.5);
+	text-shadow: none;
+	font-weight: normal;
+	font-size: large;
+}
+
+form {
+	color: black;
+	font-size: 20px;
+
+}
+
+input {
+	background-color: white;
+}
+
+
+

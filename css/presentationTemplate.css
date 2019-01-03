@@ -1,0 +1,53 @@
+/*!
+ * Start Bootstrap - The Big Picture HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: rgba(0, 0, 0, 0.2);
+	border-bottom: 7px dotted #0990000;
+	box-shadow: inset 0 -3px 0 0 #990000, 0 3px 0 0 #990000;
+	border-top: 7px dotted #990000;
+	box-shadow: inset 0 3px 0 0 #990000, 0 -3px 0 0 #990000;
+	background: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+	
+}
+
+.full {
+  background: url(http://coolinterestingstuff.com/wp-content/uploads/2014/02/20140213-192542.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.meghedit {
+	font-family: "Goudy Old Style";
+	font-weight: bold;
+	color: white;
+	text-shadow: 4px 4px #990000;
+}
+
+.megpedit {
+	color: black;
+	border: 3px solid white;
+	outline: 3px solid #990000;
+	background: rgba(255, 229, 153, .7);
+	text-shadow: none;
+	font-weight: normal;
+	font-size: large;
+	padding: 10px;
+}
+
+.bibliography {
+    text-align: left;
+    text-indent: -20px;
+    padding-left: 30px;
+    word-wrap: normal;
+    word-break: normal;
+    white-space: pre-wrap;
+}
